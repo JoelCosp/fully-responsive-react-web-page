@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base:'https://JoelCosp.github.io/fully-responsive-react-web-page'
 });
